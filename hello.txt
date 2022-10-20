@@ -1,67 +1,11 @@
-hello hello hello
-morning morning morning
-
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-hello hello hello
-
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning
-morning morning morning098765432
->>>>>>> hot-fix
+九阴真经
+第一卷：
+	王重阳创立九阴真经第一卷，
+第二卷：
+	欧阳锋添加第二卷
+第三卷：
+	黄药师添加了第三卷
+第四卷：
+	一灯大师添加了第四卷
+第五卷：
+	四人因三观不合，某些招式的看法不同，比如要不要自宫。
